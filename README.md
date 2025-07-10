@@ -1,4 +1,4 @@
-# 🌟 Student Performance Analysis 🌟  
+# Student Performance Analysis 
 
 **Unlocking the Secrets to Academic Success Through Data!**  
 
@@ -6,15 +6,15 @@ This project dives deep into understanding the factors that influence student pe
 
 ---
 
-## 🎯 **Project Highlights**  
-- 📊 **Visual Exploration**: Interactive charts and graphs to explore trends and distributions in the data.  
-- 🛠️ **Smart Data Cleaning**: Handle missing values and outliers seamlessly.  
-- 📈 **Statistical Insights**: Uncover relationships between factors like attendance and exam scores.  
-- 🤖 **Predictive Power**: A Random Forest Regression model predicts exam scores based on input factors.  
+## **Project Highlights**  
+- **Visual Exploration**: Interactive charts and graphs to explore trends and distributions in the data.  
+- **Smart Data Cleaning**: Handle missing values and outliers seamlessly.  
+- **Statistical Insights**: Uncover relationships between factors like attendance and exam scores.  
+- **Predictive Power**: A Random Forest Regression model predicts exam scores based on input factors.  
 
 ---
 
-## 🛠️ **Tech Stack**  
+## **Tech Stack**  
 - **Python**: The core of data analysis and modeling.  
 - **Streamlit**: For creating an interactive and visually appealing web app.  
 - **Seaborn & Matplotlib**: For data visualization.  
@@ -23,7 +23,7 @@ This project dives deep into understanding the factors that influence student pe
 
 ---
 
-## 🚀 **How to Run the App**  
+##  **How to Run the App**  
 1. Clone this repository:  
    ```bash
    git clone https://github.com/adanakbar/Student-Performance-Analysis
